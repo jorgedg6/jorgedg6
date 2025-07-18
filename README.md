@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jorgedg6
-- 👀 I’m interested in the implications of technology advancement in society and how to create a good transition.
-- 🌱 I’m currently learning advanced algorithm design and good development practices.
+- 👀 I’m interested in the societal implications of technological advancement and how to enable a smooth and ethical transition.
+- 🌱 I’m currently learning advanced algorithm design and best development practices.
 - 📫 How to reach me jorgedg611@uc.cl
 
 <!---
